@@ -1,0 +1,23 @@
+LITZHILL: A Fast-Paced Startup
+
+LITZHILL is a dynamic and innovative startup, founded by Rahul Kiran Rao, an alumnus of IIT Bombay, who has extensive experience in product management. He previously worked at Slice during its early startup phase, honing his skills as a successful product manager. Rahul’s leadership and vision have shaped LITZHILL into a thriving company.
+
+Founders and Team Structure
+
+Rahul Kiran Rao (Founder): Rahul leads the company with his expertise in product management and startup growth. His experience at Slice provided him with the strategic and operational know-how to drive innovation at LITZHILL.
+
+Prem Shekhar (Co-founder & Lead AI Engineer): Prem is the lead AI/ML engineer, responsible for overseeing the company’s machine learning initiatives. As an IIT Bombay alumnus, he brings cutting-edge AI knowledge to the table and manages the ML team. Rahul and Prem have a close professional relationship, having studied together at IIT Bombay, where Rahul was Prem's senior.
+
+Kiran Ravichandran (Technical Lead & Stakeholder): Kiran plays a critical role as the company’s tech stack advisor and front-end development lead. With a strong background in AWS and Ionic framework development, he has built many AI-powered systems at LITZHILL. He is also a key stakeholder in the company.
+
+
+Key Team Members
+
+Hemant (AI ML Intern & Front-end Developer): Hemant, who works under Prem's guidance, is responsible for developing Litzchill’s chatbot. Though hired as an AI/ML intern, Hemant expanded his role to include front-end development, building a powerful editor UI using the Ionic and Angular frameworks. He also worked on AWS back-end development, utilizing AWS Amplify, GraphQL, and AppSync queries with the assistance of Kiran. Together with Kiran, Hemant has contributed to building AI-based recommendation systems and a feature-rich image editor for LITZHILL.
+
+Krishnaveni (Front-end Developer): An intern from VR College, Krishnaveni has played a vital role in the front-end development of Litzchill’s applications. Skilled in Angular, she developed a basic app and provided knowledge transfer sessions (KT) to Hemant, further enhancing his development skills.
+
+
+Litzchill’s Core Focus
+
+LITZHILL is focused on leveraging AI technologies to build innovative applications, with a particular emphasis on advanced machine learning systems and AI-driven recommendation engines. The company has a culture of collaboration and technical excellence, driven by a strong team of experienced professionals and skilled interns.
